@@ -1,5 +1,4 @@
-<div>
-  <h1>Hi </h1>
+<h1 align="center">Hi, I'am Raquel Vazquez :two_hearts: </h1>
 
 <!--
 **raquellvazquez/raquellvazquez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
