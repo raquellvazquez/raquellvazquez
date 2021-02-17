@@ -33,6 +33,7 @@
 
 - [ ] Back End Fundamentals
 - [ ] More on css preprocessors
+- [ ] Angular JS
 - [ ] React Native
 - [ ] Boostrap 4
 - [ ] React Redux
