@@ -39,6 +39,20 @@
 - [ ] Boostrap 4
 - [ ] React Redux
 
+
+### Soft skills
+
+- [x] Teamwork
+- [x] Creative Thinking
+- [x] Conflict Resolution
+- [x] Self-Control
+- [x] Assertiveness
+- [x] Empathy
+- [x] Comunication
+- [x] Self-motivation
+- [x] Leadership
+- [x] Responsibility
+
 <!--
 **raquellvazquez/raquellvazquez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
