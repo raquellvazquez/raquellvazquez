@@ -31,8 +31,6 @@
     🌱 Learning goals of this year ...
 </div>
 
-### Examples
-
 - [ ] Back End Fundamentals
 - [ ] More on css preprocessors
 - [ ] React Native
@@ -40,7 +38,9 @@
 - [ ] React Redux
 
 
-### Soft skills
+<div align="right">
+    😄 Soft skills
+</div>
 
 - [x] Teamwork
 - [x] Creative Thinking
