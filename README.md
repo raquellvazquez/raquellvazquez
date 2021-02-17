@@ -1,13 +1,14 @@
 <h1 align="center">Hi, I'm Raquel Vazquez :two_hearts: </h1>
 
 <div display="flex">
-    <div>
+    <div align="left">
         <p>About me</p><a href="https://github.com/raquellvazquez"><img src="https://raw.githubusercontent.com/raquellvazquez/to-do/develop/src/assets/girl.png" alt="Safari" width="24px" height="24px" /></a>
         Raquel Vazquez Sanchez
         <p>Age:  23 years </p>
         <p>Residence: CDMX, Mexico</p>
     </div>
-    <div>Technical Knowledge
+    <div align="right">
+        <p>Technical Knowledge</p>
     </div>
 </div>
 
