@@ -53,6 +53,9 @@
 - [x] Leadership
 - [x] Responsibility
 
+<p align='center'>
+:two_hearts: Connect with me : <a href="https://www.linkedin.com/in/raquel-vazquez-sanchez/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height="25" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
 
 <!--
 **raquellvazquez/raquellvazquez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
