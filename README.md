@@ -54,7 +54,11 @@
 - [x] Responsibility
 
 <p align='center'>
-:two_hearts: Connect with me : <a href="https://www.linkedin.com/in/raquel-vazquez-sanchez/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height="25" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+:two_hearts: Connect with me: 
+</p>
+<br/>
+<p align='center'>
+<a href="https://www.linkedin.com/in/raquel-vazquez-sanchez/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height="25" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 <!--
