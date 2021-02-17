@@ -38,20 +38,20 @@
 - [ ] React Redux
 
 
-<div align="right">
+<h2 align="center">
     😄 Soft skills
-    - [x] Teamwork
-    - [x] Creative Thinking
-    - [x] Conflict Resolution
-    - [x] Self-Control
-    - [x] Assertiveness
-    - [x] Empathy
-    - [x] Comunication
-    - [x] Self-motivation
-    - [x] Leadership
-    - [x] Responsibility
-</div>
+</h2>
 
+- [x] Teamwork
+- [x] Creative Thinking
+- [x] Conflict Resolution
+- [x] Self-Control
+- [x] Assertiveness
+- [x] Empathy
+- [x] Comunication
+- [x] Self-motivation
+- [x] Leadership
+- [x] Responsibility
 
 
 <!--
