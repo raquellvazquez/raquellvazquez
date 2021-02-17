@@ -33,11 +33,11 @@
 
 ### Examples
 
-- [ ] Back End Fundamentals;
-- [ ] More on css preprocessors;
-- [ ] React Native;
-- [ ] Boostrap 4;
-- [ ] React Redux;
+- [ ] Back End Fundamentals
+- [ ] More on css preprocessors
+- [ ] React Native
+- [ ] Boostrap 4
+- [ ] React Redux
 
 <!--
 **raquellvazquez/raquellvazquez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
