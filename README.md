@@ -31,7 +31,7 @@
     🌱 Learning goals of this year ...
 </h2>
 
-- [ ] Back End Fundamentals
+- [ x ] Back End Fundamentals
 - [ ] More on css preprocessors
 - [ ] Angular JS
 - [ ] React Native
