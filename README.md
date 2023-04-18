@@ -4,7 +4,7 @@
     <div align="left">
         <h2><strong>About me</strong></h2><a href="https://github.com/raquellvazquez"><img src="https://raw.githubusercontent.com/raquellvazquez/to-do/develop/src/assets/girl.png" alt="Safari" width="24px" height="24px" /></a>
         Raquel Vazquez Sanchez
-        <p>Age:  23 years </p>
+        <p>Age:  25 years </p>
         <p>Residence: CDMX, Mexico</p>
     </div>
     <div align="right">
@@ -31,12 +31,7 @@
     🌱 Learning goals of this year ...
 </h2>
 
-- [ x ] Back End Fundamentals
-- [ ] More on css preprocessors
-- [ ] Angular JS
-- [ ] React Native
-- [ ] Boostrap 4
-- [ ] React Redux
+- [  ] Next.js
 
 
 <h2 align="center">
