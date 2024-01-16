@@ -49,6 +49,8 @@
 - [x] Leadership
 - [x] Responsibility
 
+> Visit my [Portfolio]([https://duckduckgo.com](https://portafolio-nine-tawny.vercel.app/) "Raquel Vazquez").
+
 <p align='center'>
 :two_hearts: Connect with me: 
 </p>
