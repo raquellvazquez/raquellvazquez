@@ -6,6 +6,7 @@
         Raquel Vazquez Sanchez
         <p>Age:  26 years </p>
         <p>Residence: CDMX, Mexico</p>
+        <p> > Visit my [Portfolio](https://portafolio-nine-tawny.vercel.app/).</p>
     </div>
     <div align="right">
         <h2><strong>Technology knowledge</strong></h2>
@@ -48,9 +49,6 @@
 - [x] Self-motivation
 - [x] Leadership
 - [x] Responsibility
-
-
-Visit my [Portfolio]([https://duckduckgo.com](https://portafolio-nine-tawny.vercel.app/) "Raquel Vazquez").
 
 <p align='center'>
 :two_hearts: Connect with me: 
