@@ -7,6 +7,7 @@
         <p>Age:  26 years </p>
         <p>Residence: CDMX, Mexico</p>
         <p> > Visit my [Portfolio](https://portafolio-nine-tawny.vercel.app/).</p>
+        <p> My favorite search engine is [Duck Duck Go](https://duckduckgo.com "The best search engine for privacy"). </p>
     </div>
     <div align="right">
         <h2><strong>Technology knowledge</strong></h2>
@@ -55,6 +56,7 @@
 </p>
 <p align='center'>
 <a href="https://www.linkedin.com/in/raquel-vazquez-sanchez/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height="25" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://portafolio-nine-tawny.vercel.app/">Portfolio</a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 <!--
